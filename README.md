@@ -572,6 +572,10 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[xctools](https://github.com/nzrsky/xctools-mcp-server)** - 🍎 MCP server for Xcode's xctrace, xcrun, xcodebuild.
 - **[YouTube](https://github.com/anaisbetts/mcp-youtube)** - Fetch YouTube subtitles
 - **[Yuga Planner](https://github.com/blackopsrepl/yuga-planner)** - AI Task schedule planning with LLamaIndex and Timefold: breaks down a task description and schedules it around an existing calendar
+- **[Zero Core Budget](https://github.com/meltingpixelsai/harvey-budget)** - Budget tracking, ROI analysis, and spend approval for AI agents. Pay-per-call USDC via x402.
+- **[Zero Core Intel](https://github.com/meltingpixelsai/harvey-intel)** - Token safety scanning, trading signals, market regime detection, social trend analysis, and competitor intelligence for AI agents. Pay-per-call USDC via x402.
+- **[Zero Core Tools](https://github.com/meltingpixelsai/harvey-tools)** - Web scraping, screenshots, structured data extraction, code review, content generation, sentiment analysis, and web search for AI agents. Pay-per-call USDC via x402.
+- **[Zero Core Verify](https://github.com/meltingpixelsai/harvey-verify)** - Outcome verification and quality scoring for AI agent actions. Pay-per-call USDC via x402.
 
 ## Clients
 
